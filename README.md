@@ -1,4 +1,4 @@
-# 🌸 Mindful Haven — A Gentle Space for Calm & Reflection 🧠
+# 🌸 Mindful Haven — Your Gentle AI Therapist for Calm & Reflection 🧠
 
 > _“It’s okay to not be okay.”_  
 > A soothing, per-user Streamlit app for journaling, reflection, nutrition, games & mindfulness tools — powered by **Gemini AI**.

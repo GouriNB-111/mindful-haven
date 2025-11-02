@@ -93,6 +93,9 @@ It’s designed with Pinterest-inspired visuals, soft gradients, and per-user lo
 
 ## 📦 Project Structure
 
+### 🗂️ **Project Structure**
+
+```plaintext
 mindful-haven/
 ├─ assets/                    # app visuals & icons
 │  ├─ logo_primary.png

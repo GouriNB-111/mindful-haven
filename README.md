@@ -117,10 +117,5 @@ mindful-haven/
 └─ requirements.txt           # Python dependencies
 
 
-### Clone the repository
-```bash
-git clone https://github.com/GouriNB-111/mindful-haven.git
-cd mindful-haven
-
 
 

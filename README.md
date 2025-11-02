@@ -93,3 +93,25 @@ It’s designed with Pinterest-inspired visuals, soft gradients, and per-user lo
 
 ## 📦 Project Structure
 
+mindful-haven/
+├─ assets/                    # app visuals & icons
+│  ├─ logo_primary.png
+│  ├─ music_switch.jpeg
+│  ├─ nutrition_banner.jpeg
+│  ├─ nutrition_side.jpeg
+│  └─ poster_okay.png
+│
+├─ data/                      # runtime: per-user folders & files (auto-created)
+│  ├─ <user_hash>/journal.csv
+│  ├─ <user_hash>/gratitude.json
+│  ├─ <user_hash>/habits.csv
+│  └─ ...
+│
+├─ .streamlit/
+│  └─ config.toml             # Streamlit theme + page config
+│
+├─ mental_health.py           # main Streamlit app (entry point)
+├─ requirements.txt           # Python dependencies
+├─ .gitignore                 # ignores secrets, data, venv, caches
+└─ .env                       # holds GOOGLE_API_KEY (not pushed)
+

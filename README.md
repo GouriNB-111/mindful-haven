@@ -114,7 +114,13 @@ mindful-haven/
 │  └─ config.toml             # Streamlit theme + page config
 │
 ├─ mental_health.py           # main Streamlit app (entry point)
-├─ requirements.txt           # Python dependencies
-├─ .gitignore                 # ignores secrets, data, venv, caches
-└─ .env                       # holds GOOGLE_API_KEY (not pushed)
+└─ requirements.txt           # Python dependencies
+
+
+### Clone the repository
+```bash
+git clone https://github.com/GouriNB-111/mindful-haven.git
+cd mindful-haven
+
+
 
